@@ -1,3 +1,4 @@
 .env
 venv/
 private.json
+__pycache__/
